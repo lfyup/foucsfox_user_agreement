@@ -1,48 +1,23 @@
-# Privacy Policy
-Updated: November , 2022
+# User Agreement
+Updated: February 16, 2023
+ Welcome to Little Fox - Tomato Timer！
+ Thanks for using tomato timer service provided by Little Fox. Please be sure to carefully read and fully understand the following terms. When you using the service provided by Little Fox, you agree to have read and accepted all terms of this agreement; otherwise, please do not use the product.
+ We may revise User Agreement in due course. In the event when terms of User Agreement are amended, we will show you amended agreement by way of push notifications and/or pop-up windows when you log in or when the APP version has been updated. Please note that we will follow the updated agreement to collect, use and store your personal information only after you have tapped on the consent button in the pop-up window.
+ If you are a minor please read the agreement and use this service with your legal guardian and pay special attention to the terms of use of minors.
 
-Protecting your privacy is really important to us. Thanks for using service provided by FocusFox. Please be sure to carefully read and fully understand the following policy. When using the service provided by FocusFox, you agree to have read and accepted all privacy policy; otherwise, please do not use the product.
+** Contents of the Services
+ The specific content of Little Fox service is provided by Little Fox Team according to the actual situation including but not limited to tomato timer and more. Little Fox operator has the right to upgrade or adjust the service or product it provides, and will update the page/information in a timely manner.
+ You agree that Little Fox may, by itself or by any third-party advertiser, send you advertising, promotion or publicity information (including commercial and non-commercial information), the way and scope may be changed without noticing you. Little Fox may provide you with the option to turn off advertising information, but at any time you will not be able to shield and filter advertising information in a manner that the User Agreement is not explicitly stipulated or authorized in written words by Little Fox. Little Fox performs the relevant obligations for advertisers in accordance with the laws, you should judge the authenticity of advertising information and be responsible for your own judgments. Except for specific legal provisions, for the loss or damage user suffers from the advertisement transactions or the content provided by the advertiser, Little Fox doesn't bear any responsibility.
 
-We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of our application for mobile devices and tablet computers (the “Apps”). This Privacy Policy applies only to information that you provide to us through the App and site.
+** Use of the Services
+ Except as expressly provided in this agreement, no part of the app and no Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted or distributed in any way (including "mirroring") to any other computer, server, Web site or other medium for publication or distribution or for any commercial enterprise, without Little Fox’s express prior written consent.
 
-**How do we collect and use information?**
+** Privacy
+ We take your privacy very seriously. We will collect and store your personal information according to Little Fox Privacy Policy. Using our service means that you agree that your personal data can be used according to our privacy policy. Additionally, by using the app you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send to the app may be read or intercepted by others, even if there is a special notice that a particular transmission (for example, pictures information) is encrypted.
 
-Our primary goals in collecting information are to provide and improve our Apps, Site and related services (collectively, the “Services”). FocusFox may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by me in any way.
-
-**Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this service.
-
-**Account Information**
-
-Except as described below, we do not collect any information that can be used to contact or identify you directly, such as your full name, email address, postal address or phone number (“Personally Identifiable Information” or “PII”) in connection with your use of the services.
-
-**Information Related to Use of the Services**
-
-Our servers automatically record certain information about how a person uses our services (we refer to this information as “Log Data”), including both account holders and non-account holders (either, a “User”). Log Data may include information such as a Userʼs Internet Protocol (IP) address, device type, operating system, the links and advertisements on our services that a User clicked on, the amount of time you interact with the services and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the services by expanding their features and functionality and tailoring them to our Usersʼ needs and preferences. We also use the IP Address to generate aggregate, non-identifying information about how our services are used.
-
-**Mobile Device Information**
-
-When you access the services via a mobile device, we will collect information related to the mobile device such as the serial number or MAC address and the open UDID of the device. We may use this information to improve and personalize our services for you.
-
-**Advertising & Third Party Products and Services**
-
-The services are supported via advertising, and we collect certain data to help the services serve ads. Advertisers and advertising networks use some of the information collected by the services, including the unique identification ID of your mobile device. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties canʼt identify you personally.
-
-**Links to Other Sites**
-
-Our services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy. Our Privacy Policy does not apply to such websites or services and weʼre not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
-
-**Children Protect**
-
-Our Policy Toward Children
-
-Our Services are for children over 4+ .
-
-**Changes to This Privacy Policy**
-
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, weʼll notify you of such changes by posting them on the services or by sending you a notification and weʼll indicate when such changes will become effective.
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at xiaoyuup22@gmail.com.
+** Responsibility for Content
+ You acknowledge that all information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials accessible through Little Fox, whether publicly posted or privately transmitted (“Content”), are the sole responsibility of the party from whom such Content originated. Little Fox only provides you with the tool to create widget and cannot control how you use the service. Therefore, the correctness, completeness or the quality of the content is not guaranteed. Under no circumstances shall Little Fox be responsible for any content, but we will have the right to stop transmission of any such content and take corresponding actions according to law, including but not limited to suspending the user from using all or part of the service, keeping relevant records and reporting to relevant authorities.
+ 
+** Contact us
+ Should you have any other complaints, suggestions or matters related to minor personal information, please contact us at xiaoyuup22@gmail.com. We will review your queries and reply within 30 days after verifying your user identity.
+ Little Fox enjoys the final interpretation right of this Agreement.
